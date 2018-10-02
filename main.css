@@ -1,0 +1,42 @@
+body {
+  background-color: #F8B195;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px
+}
+
+h1 {
+  color: white;
+  font-family: abril fatface;
+  font-weight: lighter;
+  font-size: 60px;
+  letter-spacing: 2px;
+  margin-bottom: 0px
+
+  }
+
+.inputSection {
+    margin: 50px 0px 80px 0px;
+    width: 400px;
+
+  }
+
+  .inputs {
+    width: inherit;
+    display: flex;
+    flex-direction: column;font font-family: futura;
+    color: black;
+    text-transform: uppercase;
+  }
+
+  .input {
+    margin-top: 10px
+
+
+  }
+
+.addOption {
+  margin-top: 10px
+}
