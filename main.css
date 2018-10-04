@@ -40,3 +40,14 @@ h1 {
 .addOption {
   margin-top: 10px
 }
+.resultSection {
+  height: 300px;
+  font-family: poppins;
+  color: #ef6e7d;
+  font-weight: 100;
+  letter-spacing: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px
+  }
